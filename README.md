@@ -1,7 +1,7 @@
-# X-și-0
-Joc X și 0 pentru 2 persoane, generalizat, creat în limbajul de programare C.
-Unul dintre voi va fi jucătorul X, celălalt jucătorul 0, în funcție de simbolul cu care joacă.
-Pentru a plasa simbolurile, tastați cifrele/numerele sub forma "linie coloana" (ex. 2 3).
-În caz că acel câmp este deja ocupat sau invalid, programul vă va spune și va trebui să alegeți alt camp.
-La final, programul va afișa cine a câștigat sau dacă este egalitate.
-Succes!
+# Tic Tac Toe
+Tic-Tac-Toe game for 2 people, generalized, created in the C programming language.
+One of you will be player X, the other player 0, depending on which symbol they are playing with.
+To place the symbols, type the digits/numbers in "line column" form (eg 2 3).
+In case that field is already filled or invalid, the program will tell you and you will have to choose another field.
+At the end, the program will show who wins or if there is a tie.
+Success!
