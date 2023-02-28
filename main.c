@@ -151,7 +151,7 @@ int check_draw(int size, char board[size][size])
 that size. It will initialize the symbol with X, that is the starting player and will display the game board, as well as each player's turn. It checks then
 if one of the players has won, and if so, displays the game board and a message related. For the last time it checks if there is a tie.
  *
- * @return int in the loop of the main function, after calling the functions in their logical order, after each winner or tie check, if it is affirmative,
+ * @return int - in the loop of the main function, after calling the functions in their logical order, after each winner or tie check, if it is affirmative,
 the game board is displayed again with the help of the function, and a related message; after that, the main function returns 0 (it exits the loop), and at
 the end another 'return 0' is written to stop the program from running, because the game is finished
  */
